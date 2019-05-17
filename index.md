@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/cosismo/jetson-nano/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cosismo/jetson-nano/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<p>¡Gracias por tu compra!</p>
+<p>¡Bienvenido al Edge Machine Learning!</p>
+<p>Para comenzar a utilizar tu NVIDIA Jetson Nano y encontrar toda la información técnica, te recomendamos la siguiente página:</p>
+<p>Nota importante: Te recordamos que Jetson Nano requiere una fuente de poder de buena calidad de 5v 4A reales, con un conector de barril de 5.5mm/2.1mm. Aunque puede arrancar con una fuente microUSB de 5v@2A, se apagará cuando la uses con alta carga de procesamiento, como es el caso de procesos de Inteligencia Artificial / Machine Learning / Deep Learning. Más información sobre la alimentación:<br>
+<a href="https://www.jetsonhacks.com/2019/04/10/jetson-nano-use-more-power/">https://www.jetsonhacks.com/2019/04/10/jetson-nano-use-more-power/</a></p>
+<p>Iniciando con Jetson Nano:<br>
+<a href="https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit">https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit</a></p>
+<p>Demos oficiales:<br>
+Hello AI World<br>
+<a href="https://github.com/dusty-nv/jetson-inference">https://github.com/dusty-nv/jetson-inference</a></p>
+<p>Lista de videos sobre jetson nano:<br>
+<a href="https://www.youtube.com/channel/UCQs0lwV6E4p7LQaGJ6fgy5Q/videos">https://www.youtube.com/channel/UCQs0lwV6E4p7LQaGJ6fgy5Q/videos</a></p>
+<p>Script para instalar opencv 4.0.0<br>
+<a href="https://github.com/AastaNV/JEP/blob/master/script/install_opencv4.0.0_Nano.sh#L21">https://github.com/AastaNV/JEP/blob/master/script/install_opencv4.0.0_Nano.sh#L21</a></p>
+<p>Tensorflow oficial para jetson nano:<br>
+<a href="https://devtalk.nvidia.com/default/topic/1048776/jetson-nano/official-tensorflow-for-jetson-nano-/">https://devtalk.nvidia.com/default/topic/1048776/jetson-nano/official-tensorflow-for-jetson-nano-/</a></p>
+<p>Keras:<br>
+<a href="https://devtalk.nvidia.com/default/topic/1049362/jetson-nano/does-nano-support-keras-gpu-/">https://devtalk.nvidia.com/default/topic/1049362/jetson-nano/does-nano-support-keras-gpu-/</a></p>
+<p>Quedamos a tus órdenes por esta vía.</p>
+<p>¡Suerte!<br>
+Equipo Cosismo</p>
