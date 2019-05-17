@@ -1,6 +1,6 @@
 <p>¡Gracias por tu compra!</p>
 <p>¡Bienvenido al Edge Machine Learning!</p>
-<p>Para comenzar a utilizar tu NVIDIA Jetson Nano y encontrar toda la información técnica, te recomendamos la siguiente página:</p>
+<p>Para comenzar a utilizar tu NVIDIA Jetson Nano y encontrar toda la información técnica, te recomendamos las siguientes ligas:</p>
 <p>Nota importante: Te recordamos que Jetson Nano requiere una fuente de poder de buena calidad de 5v 4A reales, con un conector de barril de 5.5mm/2.1mm. Aunque puede arrancar con una fuente microUSB de 5v@2A, se apagará cuando la uses con alta carga de procesamiento, como es el caso de procesos de Inteligencia Artificial / Machine Learning / Deep Learning. Más información sobre la alimentación:<br>
 <a href="https://www.jetsonhacks.com/2019/04/10/jetson-nano-use-more-power/">https://www.jetsonhacks.com/2019/04/10/jetson-nano-use-more-power/</a></p>
 <p>Iniciando con Jetson Nano:<br>
